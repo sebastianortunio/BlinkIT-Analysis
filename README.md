@@ -1,6 +1,6 @@
 # BlinkIT Data Analysis Project
 
-**Author:** Sebastián Ortuño Barrero  
+**Author:** Sebastián Ortuno Barrero  
 **Tools Used:** Python (Pandas, Matplotlib, Seaborn)
 
 ## * Project Overview
