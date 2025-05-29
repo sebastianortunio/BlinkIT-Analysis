@@ -81,21 +81,15 @@ Generated visual insights using Matplotlib and Seaborn:
 
 ---
 
-## 📈 Key Insights
 
-- **Low Fat items** dominate sales performance.  
-- **Fruits and Vegetables** lead in item type sales.  
-- **Tier 3 outlets** contribute the most revenue.  
-- **Modern outlets** outperform traditional ones in total sales.  
-- **Outlet establishment year** and **location** impact sales trends.
+##  Conclusion
 
----
-
-## 🧠 Conclusion
-
-This analysis provides BlinkIT with actionable insights to optimize product offerings, understand outlet performance, and support strategic business decisions.
+The sales analysis reveals clear and impactful insights that challenge common assumptions and open opportunities for strategic growth:
+- * Contrary to expectations, larger outlets are not the top performers, and Low Fat items show a clear customer preference.
+- * Low Fat items dominate, contributing over 64% of total sales, confirming a strong consumer preference for healthier options.
+- * Fruits & Vegetables lead item type sales, followed closely by Snack Foods. This is a sign to prioritize inventory and marketing for these categories.
+- * Tier 3 outlets and medium-sized stores outperform all others in total sales, proving that size and tier do not guarantee success.
 
 ---
 
-## 📂 Repository Structure
 
