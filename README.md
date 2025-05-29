@@ -60,23 +60,26 @@ The dataset includes **8,523 rows** and **12 columns**, covering:
 
 Generated visual insights using Matplotlib and Seaborn:
 
-- **Pie chart:**  Sales by Fat Content
+- **5.1 Pie chart: Sales by Fat Content**
    
 ![image](https://github.com/user-attachments/assets/27eab138-8c11-40de-bd1a-acd525f1d8c4)
 
-- **Bar chart:** Sales by Item Type
+- **5.2 Bar chart: Sales by Item Type**
   
 ![image](https://github.com/user-attachments/assets/bea118d4-8346-4b54-bc99-3ab0349e17ec)
 
-- **Grouped bar chart:** Fat Content Sales by Outlet Tier
+- **5.3 Grouped bar chart: Fat Content Sales by Outlet Tier**
   
   ![image](https://github.com/user-attachments/assets/14580986-3ce4-4ce0-9134-3631812c17d3)
 
-- **Total Sales by Outlet Establishment**
+- **5.4 Total Sales by Outlet Establishment**
 ![image](https://github.com/user-attachments/assets/c84e69ee-10ba-49a1-b565-d875d05dfdef)
 
-- **Sales by Outlet Establishment**
+- **5.5 Sales by Outlet Establishment**
   ![image](https://github.com/user-attachments/assets/ee2357be-5bfb-44c1-a682-4d0a7af6a190)
+- **5.6 Sales by Outlet Location**
+  ![image](https://github.com/user-attachments/assets/09108f12-6e59-46b8-b46b-031ab6972d68)
+
 
 ##  Conclusion
 
