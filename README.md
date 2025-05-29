@@ -5,7 +5,7 @@
 
 ## * Project Overview
 
-This project provides an end-to-end data analysis of a grocery sales dataset from BlinkIT. The primary goal is to address business requirements through structured data processing, KPI calculation, and data visualization.
+This project delivers a comprehensive sales analysis through a structured data science workflow designed to uncover actionable business insights. Utilizing a dataset of over 8,500 records, the analysis progresses through data import, exploration, cleaning, KPI calculation, and visualization. The objective is to support strategic decision-making by identifying key trends in product performance, outlet efficiency, and customer preferences. The insights gained provide valuable guidance for inventory management, marketing strategies, and outlet optimization.
 
 ---
 
@@ -15,14 +15,20 @@ This project provides an end-to-end data analysis of a grocery sales dataset fro
 2. Explore the Dataset  
 3. Clean the Data  
 4. Calculate Key Performance Indicators (KPIs)  
-5. Visualize the Data  
-6. Derive Business Insights
+5. Visualize the Data
+   5.1 Total Sales by fat content
+   5.2 Total sales by Item Type
+   5.3 Fat Content by Outlet for Total Sales
+   5.4 Total Sales by Outlet Establishment
+   5.5 Sales by Outlet Establishment
+   5.6 Sales by Outlet Location
+7. Derive Business Insights
 
 ---
 
 ## * Dataset Description
 
-The dataset includes **8,523 rows** and **12 columns**, covering:
+The dataset includes 8,523 rows and 12 columns, covering:
 
 - Item identifiers and types  
 - Fat content categories  
