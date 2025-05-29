@@ -16,12 +16,12 @@ This project delivers a comprehensive sales analysis through a structured data s
 3. Clean the Data  
 4. Calculate Key Performance Indicators (KPIs)  
 5. Visualize the Data
-   5.1 Total Sales by fat content
-   5.2 Total sales by Item Type
-   5.3 Fat Content by Outlet for Total Sales
-   5.4 Total Sales by Outlet Establishment
-   5.5 Sales by Outlet Establishment
-   5.6 Sales by Outlet Location
+   - 5.1 Total Sales by fat content
+   - 5.2 Total sales by Item Type
+   - 5.3 Fat Content by Outlet for Total Sales
+   - 5.4 Total Sales by Outlet Establishment
+   - 5.5 Sales by Outlet Establishment
+   - 5.6 Sales by Outlet Location
 7. Derive Business Insights
 
 ---
