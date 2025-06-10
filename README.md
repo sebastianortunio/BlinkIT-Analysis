@@ -5,6 +5,8 @@
 
 ## * Project Overview
 
+BlinkIT is a fast-growing online grocery delivery platform in India, known for providing essential household items and groceries with rapid delivery. Operating through a network of local outlets, BlinkIT connects consumers with nearby stores, offering convenience and speed as its core value proposition.
+
 This project delivers a comprehensive sales analysis through a structured data science workflow designed to uncover actionable business insights. Utilizing a dataset of over 8,500 records, the analysis progresses through data import, exploration, cleaning, KPI calculation, and visualization. The objective is to support strategic decision-making by identifying key trends in product performance, outlet efficiency, and customer preferences. The insights gained provide valuable guidance for inventory management, marketing strategies, and outlet optimization.
 
 ---
