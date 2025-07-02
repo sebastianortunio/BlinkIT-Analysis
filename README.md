@@ -7,7 +7,7 @@
 
 BlinkIT is a fast-growing online grocery delivery platform in India, known for providing essential household items and groceries with rapid delivery. Operating through a network of local outlets, BlinkIT connects consumers with nearby stores, offering convenience and speed as its core value proposition.
 
-This project delivers a comprehensive sales analysis through a structured data science workflow designed to uncover actionable business insights. Utilizing a dataset of over 8,500 records, the analysis progresses through data import, exploration, cleaning, KPI calculation, and visualization. The objective is to support strategic decision-making by identifying key trends in product performance, outlet efficiency, and customer preferences. The insights gained provide valuable guidance for inventory management, marketing strategies, and outlet optimization.
+This project delivers a comprehensive sales analysis through a structured data science workflow designed to uncover business insights. Utilizing a dataset of over 8,500 records, the analysis progresses through data import, exploration, cleaning, KPI calculation, and visualization. The objective is to support strategic decision-making by identifying key trends in product performance, outlet efficiency, and customer preferences. The insights gained provide valuable guidance for inventory management, marketing strategies, and outlet optimization.
 
 ---
 
@@ -24,7 +24,7 @@ This project delivers a comprehensive sales analysis through a structured data s
    - 5.4 Total Sales by Outlet Establishment
    - 5.5 Sales by Outlet Establishment
    - 5.6 Sales by Outlet Location
-7. Derive Business Insights
+6. Business Insights
 
 ---
 
@@ -89,7 +89,7 @@ Generated visual insights using Matplotlib and Seaborn:
   ![image](https://github.com/user-attachments/assets/09108f12-6e59-46b8-b46b-031ab6972d68)
 
 
-##  Conclusion
+##6. Business Insights
 
 The sales analysis reveals clear and impactful insights that challenge common assumptions and open opportunities for strategic growth:
 - * Contrary to expectations, larger outlets are not the top performers, and Low Fat items show a clear customer preference.
