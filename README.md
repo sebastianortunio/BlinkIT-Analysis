@@ -89,7 +89,7 @@ Generated visual insights using Matplotlib and Seaborn:
   ![image](https://github.com/user-attachments/assets/09108f12-6e59-46b8-b46b-031ab6972d68)
 
 
-##6. Business Insights
+## **6. Business Insights**
 
 The sales analysis reveals clear and impactful insights that challenge common assumptions and open opportunities for strategic growth:
 - * Contrary to expectations, larger outlets are not the top performers, and Low Fat items show a clear customer preference.
